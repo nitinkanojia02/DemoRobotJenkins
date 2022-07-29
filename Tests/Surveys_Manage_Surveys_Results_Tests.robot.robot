@@ -1,8 +1,8 @@
 *** Settings ***
 Library             SeleniumLibrary
 Resource            ../Resources/Resource_File.robot
-Test Setup          Manage Surveys Results Setup
-Test Teardown       Teardown
+Suite Setup          Manage Surveys Results Setup
+Suite Teardown       Teardown
 *** Test Cases ***
 TC1
     [Tags]  Regression

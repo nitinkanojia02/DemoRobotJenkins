@@ -9,7 +9,7 @@ Manage Surveys Results Setup
     Open Browser    https://www.youtube.com/        firefox
 
 Manage Surveys Setup
-    Open Browser    https://www.gmail.com/         ie
+    Open Browser    https://www.gmail.com/          chrome
 
 Teardown
     Close Browser

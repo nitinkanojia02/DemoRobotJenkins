@@ -1,0 +1,7 @@
+datasources:fb899c912fc73ce9a079f34373e7d22b542a0c02
+commandlineoptions:665d49d5ea30ca8bb809a70f58cde8ad389986dc
+suitesfrom:no-suites-from-option
+file:87ab047b70290603fb21384c8baeadabe1655da4
+--suite Suites.Surveys Manage Surveys Questions Tests.robot
+--suite Suites.Surveys Manage Surveys Results Tests.robot
+--suite Suites.Surveys Manage Surveys Tests

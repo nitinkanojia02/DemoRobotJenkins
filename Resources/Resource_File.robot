@@ -3,13 +3,13 @@ Library     SeleniumLibrary
 
 *** Keywords ***
 Manage Surveys Questions Setup
-    Open Browser    https://www.google.com/         headlesschrome
+    Open Browser    https://www.google.com/         chrome
 
 Manage Surveys Results Setup
-    Open Browser    https://www.youtube.com/        headlessfirefox
+    Open Browser    https://www.youtube.com/        firefox
 
 Manage Surveys Setup
-    Open Browser    https://www.gmail.com/          headlesschrome
+    Open Browser    https://www.gmail.com/          chrome
 
 Teardown
     Close Browser
